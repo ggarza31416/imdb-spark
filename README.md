@@ -1,3 +1,3 @@
 # imdb-spark
-Code snippets for setting up Spark environment in Google Colab and getting metrics related to IMDB movies ratings
+Code for setting up Spark environment (it was tested in Google Colab) and getting useful metrics related to IMDB movie ratings
 
